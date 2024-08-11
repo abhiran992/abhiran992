@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **abhikam992@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xOwoC6Ramy3mhg1G2X_Nrvbq-RbBQGxM/view?usp=sharing](https://drive.google.com/file/d/1xOwoC6Ramy3mhg1G2X_Nrvbq-RbBQGxM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
