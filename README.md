@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xOwoC6Ramy3mhg1G2X_Nrvbq-RbBQGxM/view?usp=sharing](https://drive.google.com/file/d/1xOwoC6Ramy3mhg1G2X_Nrvbq-RbBQGxM/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me through:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhiran992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiran992" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhiran992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhiran992" height="30" width="40" /></a>
